@@ -310,7 +310,7 @@ nav ul a {
 /* FEATURES */
 .features {
   background-image: url(./Samar/bg2.png);
-  background-size: 100%;
+  background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
   padding-bottom: 0;
